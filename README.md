@@ -124,3 +124,4 @@ This end-to-end solution exemplifies how modern data-driven businesses can lever
 
 This project draws inspiration from an insightful [GitHub repository by Ansh Lamba](https://github.com/anshlambagit). For a detailed video walkthrough, check out his [YouTube channel](https://www.youtube.com/watch?v=0GTZ-12hYtU&t=15907s&ab_channel=AnshLamba). Special thanks to Ansh for providing such valuable resources and guidance for aspiring data engineers!
 
+# nyc-taxi-data-adf-pipeline
